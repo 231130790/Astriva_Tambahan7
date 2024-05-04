@@ -1,0 +1,39 @@
+header{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 23px;
+    font-family: Arial;
+}
+body{
+    width: 1000px;
+    font-family: Arial;
+    background-color: white;
+    margin: auto;
+    padding: auto;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    list-style-type: none;
+}
+nav ul li{
+    float: left;
+}
+nav ul li a{
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    display: block;
+    text-decoration: none;
+}
+img{
+    width: 300px;
+    height: 100px;
+}
+footer{
+    clear: left;
+}
